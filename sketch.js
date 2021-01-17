@@ -3,7 +3,7 @@ var energy = 0;
 var distance = 3000;
 
 function preload(){
-  backgroundImg = loadImage("bg.jpg");
+  
   butterflyImg = loadAnimation ("butterfly2.png","butterfly5.png","butterfly3.png");
   plant1Img = loadImage("plant1.png");
   plant2Img = loadImage("plant2.gif");
